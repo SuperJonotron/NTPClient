@@ -1,7 +1,6 @@
 #ifndef NTPCLIENT_H
 #define NTPCLIENT_H
 
-#include <Arduino.h>
 #include <WiFiUdp.h>
 
 #ifdef ESP8266

@@ -1,6 +1,4 @@
-#include "Arduino.h"
 #include "NTPClient.h"
-
 
 /** Default port to  use for UDP if not defined*/
 const unsigned int DEFAULT_LOCAL_PORT = 2990;
