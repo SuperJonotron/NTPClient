@@ -23,7 +23,6 @@ out/tools/**
 
 # Libraries
 *.lib
-*.a
 *.la
 *.lo
 
